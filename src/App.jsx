@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <H1>Mygithub Application </h1>
+      <h1>Mygithub Application </h1>
     </>
   )
 }
